@@ -1,6 +1,12 @@
-# COVID_Automation
-# Install Python
-# Open terminal window
-# pip install webdriver-manager
-# after installation, type
-# py COVIDEntry.PY
+# Covid Script Filler
+
+## Setup
+
+- Download and install Python from https://www.python.org/downloads/
+- Open Terminal Window
+- ```pip install webdriver-manager ```
+
+## Execution
+- Open terminal
+- Navigate to the folder you've downloaded COVIDEntry.py
+- Type ```python COVIDEntry.py``` and enter
