@@ -1,4 +1,5 @@
 # Covid Script Filler
+### This script will fill out all the entries needed if you are going to be answering No/None of the above to all questions.  
 
 ## Setup
 
