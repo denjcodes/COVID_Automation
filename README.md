@@ -17,6 +17,6 @@
 
 
 ## Execution
-- Open terminal
+- Open Terminal Window
 - Navigate to the folder you've downloaded COVIDEntry.py
 - Type ```python COVIDEntry.py``` and enter
